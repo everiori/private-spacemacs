@@ -1,0 +1,11 @@
+* What is this?
+This is my private spacemacs config and layers
+
+* How to use?
+#+BEGIN_SRC sh
+  #clone spacemacs repo and use develop branch
+  git clone https://github.com/syl20bnr/spacemacs.git ~/.emacs.d -b develop
+
+  #clone zilongshanren layer and checkout develop branch
+  git clone https://github.com/everiori/private-spacemacs.git ~/.spacemacs.d/
+#+END_SRC
